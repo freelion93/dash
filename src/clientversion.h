@@ -13,11 +13,11 @@
  * client versioning and copyright year
  */
 
-//! These need to be macros, as clientversion.cpp's and mtucicoin*-res.rc's voodoo requires it
-#define CLIENT_VERSION_MAJOR 0
-#define CLIENT_VERSION_MINOR 12
+//! These need to be macros, as clientversion.cpp's and owncoin*-res.rc's voodoo requires it
+#define CLIENT_VERSION_MAJOR 1
+#define CLIENT_VERSION_MINOR 0
 #define CLIENT_VERSION_REVISION 0
-#define CLIENT_VERSION_BUILD 56
+#define CLIENT_VERSION_BUILD 1
 
 //! Set to true for release, false for prerelease or test build
 #define CLIENT_VERSION_IS_RELEASE true

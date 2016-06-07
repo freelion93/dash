@@ -1,5 +1,8 @@
 # List of fixed seed nodes for testnet
-
+127.0.0.1
+192.168.0.187
+192.168.200.130
+176.192.244.197
 # Onion nodes
 thfsmmn2jbitcoin.onion
 it2pj4f7657g3rhi.onion
