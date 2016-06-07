@@ -1,0 +1,6 @@
+usr/local/bin/mtucicoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/mtucicoin-qt.desktop usr/share/applications
+debian/mtucicoin-qt.protocol usr/share/kde4/services/

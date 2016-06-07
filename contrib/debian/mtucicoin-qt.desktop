@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mtucicoin
+Comment=Mtucicoin P2P Cryptocurrency
+Comment[fr]=Mtucicoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mtucicoin, eşten eşe kriptografik sanal para birimi
+Exec=mtucicoin-qt %u
+Terminal=false
+Type=Application
+Icon=mtucicoin128
+MimeType=x-scheme-handler/mtucicoin;
+Categories=Office;Finance;

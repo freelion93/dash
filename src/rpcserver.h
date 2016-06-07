@@ -93,7 +93,7 @@ public:
 };
 
 /**
- * Dash RPC command dispatcher.
+ * Mtucicoin RPC command dispatcher.
  */
 class CRPCTable
 {

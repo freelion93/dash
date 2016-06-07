@@ -1,0 +1,27 @@
+# /etc/conf.d/mtucicoind: config file for /etc/init.d/mtucicoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/mtucicoin/mtucicoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/mtucicoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/mtucicoind.pid"
+
+# Where to write mtucicoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/mtucicoind"
+
+# User and group to own mtucicoind process
+#BITCOIND_USER="mtucicoin"
+#BITCOIND_GROUP="mtucicoin"
+
+# Path to mtucicoind executable
+#BITCOIND_BIN="/usr/bin/mtucicoind"
+
+# Nice value to run mtucicoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS="-disablewallet"
+

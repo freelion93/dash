@@ -1,6 +1,6 @@
 all:
-	$(MAKE) -C .. dash_test
+	$(MAKE) -C .. mtucicoin_test
 clean:
-	$(MAKE) -C .. dash_test_clean
+	$(MAKE) -C .. mtucicoin_test_clean
 check:
-	$(MAKE) -C .. dash_test_check
+	$(MAKE) -C .. mtucicoin_test_check
